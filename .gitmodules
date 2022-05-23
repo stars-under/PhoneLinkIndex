@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = git@github.com:stars-under/PhoneLink.git
+[submodule "Windows"]
+	path = Windows
+	url = git@github.com:stars-under/PhoneLinkPC.git
